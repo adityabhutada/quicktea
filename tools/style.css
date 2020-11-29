@@ -82,6 +82,7 @@ float: left;
 width: 500px;
 height: 95px;
 padding: 25px;
+margin-top: 8%;
 }
 
 form{
@@ -94,7 +95,7 @@ height: 80px;
 
 h2{
 font-family: Georgia;
-color: #ffe400;
+color: #a3082a;
 font-size: 24px;
 margin-bottom: 20px;
 }
@@ -121,7 +122,7 @@ float: left;
 
 ul.info li p{
 font-size: 13px;
-line-height: 20px;
+line-height: 27px;
 color: #fff;
 float: left;
 margin: 0;
